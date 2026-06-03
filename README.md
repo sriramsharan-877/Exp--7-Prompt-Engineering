@@ -56,7 +56,8 @@ Step 7: Compare the Results
 Compare original and generated images.
 Document differences and improvements.
 
-Output:
+Output:[Text_to_Image_Lab_Experiment.pdf](https://github.com/user-attachments/files/28537288/Text_to_Image_Lab_Experiment.pdf)
+
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
